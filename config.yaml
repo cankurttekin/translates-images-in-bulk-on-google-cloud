@@ -1,0 +1,7 @@
+google_credentials: "./credentials.json"
+font_size: 19
+text_background: "red"
+text_color: "black"
+input_folder: "./images"
+output_folder: "./output"
+target_language: "tr"
