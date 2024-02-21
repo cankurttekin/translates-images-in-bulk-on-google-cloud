@@ -27,4 +27,4 @@ target_language: "tr"
 
 ## Todo
 1. improve translation 
-2.  improve overlays & readablity
+2. improve overlays & readability
